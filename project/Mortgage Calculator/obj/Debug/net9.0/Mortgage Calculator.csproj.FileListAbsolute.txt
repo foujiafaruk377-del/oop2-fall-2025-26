@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\devlp\oop2-fall-2025-26\project\Mortgage Calculator\bin\Debug\net9.0\Mortgage Calculator.exe
+C:\Users\HP\Documents\devlp\oop2-fall-2025-26\project\Mortgage Calculator\bin\Debug\net9.0\Mortgage Calculator.deps.json
+C:\Users\HP\Documents\devlp\oop2-fall-2025-26\project\Mortgage Calculator\bin\Debug\net9.0\Mortgage Calculator.runtimeconfig.json
+C:\Users\HP\Documents\devlp\oop2-fall-2025-26\project\Mortgage Calculator\bin\Debug\net9.0\Mortgage Calculator.dll
+C:\Users\HP\Documents\devlp\oop2-fall-2025-26\project\Mortgage Calculator\bin\Debug\net9.0\Mortgage Calculator.pdb
+C:\Users\HP\Documents\devlp\oop2-fall-2025-26\project\Mortgage Calculator\obj\Debug\net9.0\Mortgage Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\devlp\oop2-fall-2025-26\project\Mortgage Calculator\obj\Debug\net9.0\Mortgage Calculator.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\devlp\oop2-fall-2025-26\project\Mortgage Calculator\obj\Debug\net9.0\Mortgage Calculator.AssemblyInfo.cs
+C:\Users\HP\Documents\devlp\oop2-fall-2025-26\project\Mortgage Calculator\obj\Debug\net9.0\Mortgage Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\devlp\oop2-fall-2025-26\project\Mortgage Calculator\obj\Debug\net9.0\Mortgage Calculator.sourcelink.json
+C:\Users\HP\Documents\devlp\oop2-fall-2025-26\project\Mortgage Calculator\obj\Debug\net9.0\Mortgage Calculator.dll
+C:\Users\HP\Documents\devlp\oop2-fall-2025-26\project\Mortgage Calculator\obj\Debug\net9.0\refint\Mortgage Calculator.dll
+C:\Users\HP\Documents\devlp\oop2-fall-2025-26\project\Mortgage Calculator\obj\Debug\net9.0\Mortgage Calculator.pdb
+C:\Users\HP\Documents\devlp\oop2-fall-2025-26\project\Mortgage Calculator\obj\Debug\net9.0\Mortgage Calculator.genruntimeconfig.cache
+C:\Users\HP\Documents\devlp\oop2-fall-2025-26\project\Mortgage Calculator\obj\Debug\net9.0\ref\Mortgage Calculator.dll

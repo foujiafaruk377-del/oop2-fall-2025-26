@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gt03IS2Nvy4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Documents\\devlp\\oop2-fall-2025-26\\project\\Mortgage Calculator\\Mortgage Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
